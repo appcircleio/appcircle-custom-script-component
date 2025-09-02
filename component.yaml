@@ -9,7 +9,7 @@ followingComponents:
 inputs:
 - key: "Execute"
   editorType: select
-  options: "ruby,bash"
+  options: "ruby,bash,python,javascript"
   isRequired: true
   title: Execute with
   description: "Script to execute with. For example bash or ruby."
